@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatibale" content="ie=edge">
+<title>Document</title>
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+  <h1> My Projects Photos</h1>
+<main>
+  <div class="card">
+    <div class="info">
+      <strong>My Title</strong>
+      <p>Developing a new product can be a daunting task, the process of coming up with new ideas for a product and the process of developing the new product is certainly a task for eager and ambitious people. Many entrepreneurs and companies nowadays may be struggling with providing innovative and sustainable new products, due to the fact that many products have been already invented or made better. Nowadays, it might seem as it is not possible anymore for new products to be invented. Yet, people keep trying to come-up with new products every day. </p>
+    </div>
+    <img src="https://www.google.co.il/imgres?imgurl=http%3A%2F%2Fwww.winwallpapers.net%2Fw1%2F2012%2F11%2FDownload-Mobile-Wallpaper-With-640x480-4.jpg&imgrefurl=http%3A%2F%2Fwww.winwallpapers.net%2Fmobile-wallpapers-for-samsung-mobile%2F&docid=44fkKVcqZVg03M&tbnid=fe9UIH9B3viJdM%3A&vet=10ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwhvKAIwAg..i&w=640&h=480&safe=active&bih=625&biw=1366&q=images%20640x480&ved=0ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwhvKAIwAg&iact=mrc&uact=8">
+  </div>
+  <div class="card">
+    <div class="info">
+      <strong>My Title</strong>
+      <p>Developing a new product can be a daunting task, the process of coming up with new ideas for a product and the process of developing the new product is certainly a task for eager and ambitious people. Many entrepreneurs and companies nowadays may be struggling with providing innovative and sustainable new products, due to the fact that many products have been already invented or made better. Nowadays, it might seem as it is not possible anymore for new products to be invented. Yet, people keep trying to come-up with new products every day. </p>
+    </div>
+    <img src="https://www.google.co.il/imgres?imgurl=http%3A%2F%2Fwww.winwallpapers.net%2Fw1%2F2012%2F12%2FDownload-Apple-ipad-Touch-wallpaper-640x480-600.jpg&imgrefurl=http%3A%2F%2Fwww.winwallpapers.net%2F640x480-samsung-galaxy-ace%2F&docid=bXhWCKsslgoHVM&tbnid=bjdTBEa0K51RGM%3A&vet=10ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwh1KAgwCA..i&w=640&h=480&safe=active&bih=625&biw=1366&q=images%20640x480&ved=0ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwh1KAgwCA&iact=mrc&uact=8">
+  </div>
+  <div class="card">
+    <div class="info">
+      <strong>My Title</strong>
+      <p>Developing a new product can be a daunting task, the process of coming up with new ideas for a product and the process of developing the new product is certainly a task for eager and ambitious people. Many entrepreneurs and companies nowadays may be struggling with providing innovative and sustainable new products, due to the fact that many products have been already invented or made better. Nowadays, it might seem as it is not possible anymore for new products to be invented. Yet, people keep trying to come-up with new products every day. </p>
+    </div>
+    <img src="https://www.google.co.il/imgres?imgurl=http%3A%2F%2Fwallpaperswide.com%2Fdownload%2Feiffel_tower_paris_france-wallpaper-640x480.jpg&imgrefurl=http%3A%2F%2Fwallpaperswide.com%2Feiffel_tower_paris_france-wallpapers.html&docid=eFYZRX69JSM7jM&tbnid=EgAx_VOYkebggM%3A&vet=10ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwh3KAowCg..i&w=640&h=480&safe=active&bih=625&biw=1366&q=images%20640x480&ved=0ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwh3KAowCg&iact=mrc&uact=8">
+  </div>
+  <div class="card">
+    <div class="info">
+      <strong>My Title</strong>
+      <p>Developing a new product can be a daunting task, the process of coming up with new ideas for a product and the process of developing the new product is certainly a task for eager and ambitious people. Many entrepreneurs and companies nowadays may be struggling with providing innovative and sustainable new products, due to the fact that many products have been already invented or made better. Nowadays, it might seem as it is not possible anymore for new products to be invented. Yet, people keep trying to come-up with new products every day. </p>
+    </div>
+    <img src="https://www.google.co.il/imgres?imgurl=https%3A%2F%2Fwww.euroweeklynews.com%2Fwp-content%2Fuploads%2F2019%2F07%2FIBIZA-BODY-FOUND-YACHT-640x480.jpg&imgrefurl=https%3A%2F%2Fwww.euroweeklynews.com%2F2019%2F07%2F10%2Fyacht-found-a-body-in-ibiza-seas%2F&docid=A5_UcLdFIj5DlM&tbnid=UKYmQBT_Q34gZM%3A&vet=10ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwifASggMCA..i&w=640&h=480&safe=active&bih=625&biw=1366&q=images%20640x480&ved=0ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwifASggMCA&iact=mrc&uact=8">
+  </div>
+  <div class="card">
+    <div class="info">
+      <strong>My Title</strong>
+      <p>Developing a new product can be a daunting task, the process of coming up with new ideas for a product and the process of developing the new product is certainly a task for eager and ambitious people. Many entrepreneurs and companies nowadays may be struggling with providing innovative and sustainable new products, due to the fact that many products have been already invented or made better. Nowadays, it might seem as it is not possible anymore for new products to be invented. Yet, people keep trying to come-up with new products every day. </p>
+    </div>
+    <img src="https://www.google.co.il/imgres?imgurl=http%3A%2F%2Fmyblogginglifestyle.com%2Fwp-content%2Fuploads%2F2016%2F10%2F3845b123-a01a.jpg&imgrefurl=http%3A%2F%2Fmyblogginglifestyle.com%2Fcontact%2F&docid=gTGFX2X2cuoScM&tbnid=38zPPciohvpfoM%3A&vet=10ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwjNAShBMEE..i&w=640&h=480&safe=active&bih=625&biw=1366&q=images%20640x480&ved=0ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwjNAShBMEE&iact=mrc&uact=8">
+  </div>
+  <div class="card">
+    <div class="info">
+      <strong>My Title</strong>
+      <p>Developing a new product can be a daunting task, the process of coming up with new ideas for a product and the process of developing the new product is certainly a task for eager and ambitious people. Many entrepreneurs and companies nowadays may be struggling with providing innovative and sustainable new products, due to the fact that many products have been already invented or made better. Nowadays, it might seem as it is not possible anymore for new products to be invented. Yet, people keep trying to come-up with new products every day. </p>
+    </div>
+    <img src="https://www.google.co.il/imgres?imgurl=https%3A%2F%2Fwww.fm1today.ch%2F2019%2F07%2F20190711015706656-640x480.jpg&imgrefurl=https%3A%2F%2Fwww.fm1today.ch%2Fmindestens-sechs-tote-touristen-bei-hagelstuermen-in-griechenland%2F1089244&docid=G_etkROZ9lRSqM&tbnid=7pjvMUltbRUk0M%3A&vet=10ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwjuAShdMF0..i&w=640&h=480&safe=active&bih=625&biw=1366&q=images%20640x480&ved=0ahUKEwjT_deG867jAhVkAmMBHQFOBtkQMwjuAShdMF0&iact=mrc&uact=8">
+  </div>
+</main>
+</body>
+</html>
